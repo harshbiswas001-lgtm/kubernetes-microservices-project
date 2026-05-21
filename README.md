@@ -46,3 +46,4 @@ kubectl get svc
 ## Output
 Application deployed successfully on Kubernetes cluster.  
 <img width="1913" height="969" alt="Image" src="https://github.com/user-attachments/assets/5c3f5a16-17f2-4bab-a701-fda56a2d7139" />
+<img width="1920" height="964" alt="Image" src="https://github.com/user-attachments/assets/ba3aa59b-a651-4adb-8d2b-f2ec2f86e765" />
