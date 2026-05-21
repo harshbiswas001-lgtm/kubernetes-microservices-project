@@ -44,4 +44,5 @@ kubectl get pods
 kubectl get svc
 
 ## Output
-Application deployed successfully on Kubernetes cluster.    
+Application deployed successfully on Kubernetes cluster.  
+<img width="1913" height="969" alt="Image" src="https://github.com/user-attachments/assets/5c3f5a16-17f2-4bab-a701-fda56a2d7139" />
